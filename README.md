@@ -3,6 +3,11 @@
 
 📫Reach me out!
 
-![Static Badge](https://img.shields.io/badge/Gmail-%23EA4335?style=flat&logo=gmail&logoColor=white&labelColor=%23EA4335&link=mailto%3Arsovkovic%40gmail.com)
+
+
+
+![Mail Badge](https://img.shields.io/badge/Roman_Shovkovych-EA4335?style=flat&logo=gmail&logoColor=white&labelColor=EA4335&link=mailto:rsovkovic@gmail.com)
+
+
 
 
