@@ -1,6 +1,6 @@
 ## Hi I'm Roman 👋
 
-### 👨‍💻 Fullstack Software Developer | Next.js & TypeScript Enthusiast
+### 👨‍💻 Fullstack Software Developer | React | Next.js & TypeScript Enthusiast
 > Building high-performance web applications with clean architecture. Based in Ukraine 🇺🇦
 
 ---
