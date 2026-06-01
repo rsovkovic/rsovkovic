@@ -39,7 +39,9 @@
 ---
 
 ## 🚀 Projects
+💻 Personal Projects
 
+👥 Team Projects
 
 
 
