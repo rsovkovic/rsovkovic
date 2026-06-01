@@ -41,7 +41,19 @@
 ## 🚀 Projects
 💻 Personal Projects
 
+* **[Note Hub](https://09-auth-ochre-psi.vercel.app/)** — Next.js • REST API    
+  Developed a full-featured note-taking application with user authentication and CRUD functionality.    
+  👉 [View GitHub Repository](https://github.com/rsovkovic/09-auth.git)
+
+* **[Read journey](https://read-journey-ochre-gamma.vercel.app/)** — Next.js • Firebase • Tailwind CSS v4 • TypeScript    
+  A modern reading tracker application designed for book lovers to manage a personal library and visualize reading progress. Implemented secure Firebase authentication, complex form validation using React Hook Form with Zod, and interactive visual data tracking via circular progress components.    
+  👉 [View GitHub Repository](https://github.com/rsovkovic/read-journey.git)
+
 👥 Team Projects
+
+* **[Clothica Shop](https://clothica-front.vercel.app/)** — Next.js • TypeScript • Zustand • Axios    
+  Contributed to the development of a responsive e-commerce clothing platform featuring dynamic product filtering, a sidebar shopping cart, and smooth checkout forms. Built efficient global state management with Zustand and designed modern, adaptive UI layouts with Formik and Swiper.js.    
+  👉 [View GitHub Repository](https://github.com/rsovkovic/clothica-front.git)
 
 
 
